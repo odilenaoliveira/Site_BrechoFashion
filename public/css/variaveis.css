@@ -1,0 +1,15 @@
+/*fonte*/
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NO:wght@100..400&display=swap');
+
+:root{
+    /*Cor destaque site*/
+    --bg-banner-footer:#EECEB9;
+    --bg-destaque:#D37676;
+
+    /* Cor texto*/
+    --color-text-destaque:white;
+    --color-text:#000;
+
+    /*Fonte texto*/
+    --font-destaque:"Playwrite NO", cursive;
+}
