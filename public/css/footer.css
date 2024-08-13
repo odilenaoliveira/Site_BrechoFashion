@@ -1,0 +1,17 @@
+footer{position: relative; background: var(--bg-banner-footer);padding: 70px 0;display: block;}
+footer .row{display: flex;flex-wrap: wrap;}
+footer .row .box{width: 25%;padding: 0 15px;}
+footer .row .box{width: 25%;padding: 0 15px;}
+footer .row .box p{font-size: 16px;padding-top: 10px;line-height: 1.4em;}
+footer .row .box ul li{padding-top: 5px;}
+footer .row .box ul li a{color: var(--color-text);}
+footer .row .box a:hover{letter-spacing: 2px;color: #333;}
+
+footer .row .social{display:grid;grid-template-columns: repeat(4,50px);}
+footer .row .social li a img{padding: 8px; background-color: var(--bg-destaque)}
+footer .row .social li a img{width: 40px;height: 40px; display: inline-block;display: grid;justify-content: center;align-items: center;}
+footer .row .social a:hover img{filter: invert(1);}
+
+footer .ref{position: relative;display: flex;justify-content: center;align-items: center;padding: 50px 0;}
+footer .ref a{padding-right: 10px;color: var(--color-text);}
+footer .copyright{position: absolute;bottom: 0; width: 100%;padding: 20px; background:var(--bg-destaque);color: var(--color-text);display: flex;justify-content: center;align-items: center;color: black;}

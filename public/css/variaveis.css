@@ -5,6 +5,7 @@
     /*Cor destaque site*/
     --bg-banner-footer:#EECEB9;
     --bg-destaque:#D37676;
+    --bg-destaque-rgb:rgba(211, 118, 118, 0.61);
 
     /* Cor texto*/
     --color-text-destaque:white;
@@ -12,4 +13,7 @@
 
     /*Fonte texto*/
     --font-destaque:"Playwrite NO", cursive;
+
+    /*Imagem*/
+    --bg-banner:url("/public/image/banner/foto1.png") no-repeat center;
 }
